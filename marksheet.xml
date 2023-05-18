@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <personData xmlns:a="http://www.adnan.org//XMLSchema-instance/id:1" 
+ xmlns:b="http://www.adnan.org//XMLSchema-instance/id:2"
+xmlns:c="http://www.adnan.org//XMLSchema-instance/id:3"
+> 
+<userdata id="1">
+<studentName>adnan</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>A</grade>
+<per>90</per>
+</userdata>
+
+<userdata id="2">
+<studentName>ali</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>B</grade>
+<per>80</per>
+</userdata>
+
+<userdata id="3">
+<studentName>uzair</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>C</grade>
+<per>70</per>
+</userdata>
+
+<userdata id="4">
+<studentName>hamza</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>D</grade>
+<per>60</per>
+</userdata>
+
+<userdata id="5">
+<studentName>amna</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>A+</grade>
+<per>95</per>
+</userdata>
+</personData>

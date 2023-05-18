@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personData xmlns:a="http://www.adnan.org//XMLSchema-instance/id:1"
+xmlns:b="http://www.adnan.org//XMLSchema-instance/id:2"
+xmlns:c="http://www.adnan.org//XMLSchema-instance/id:3"
+>
+<userdata id="1">
+<a:fname>adnan</a:fname>
+<a:lname>syed</a:lname>
+<a:email>syedorten95@gmail.com</a:email>
+</userdata>
+
+<userdata id="2">
+<a:fname>ali</a:fname>
+<a:lname>sy</a:lname>
+<a:email>syali95@gmail.com</a:email>
+</userdata>
+
+<userdata id="3">
+<a:fname>hamza</a:fname>
+<a:lname>sy</a:lname>
+<a:email>syhamza95@gmail.com</a:email>
+</userdata>
+</personData>
