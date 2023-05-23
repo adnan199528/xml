@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE marksheet [
+<!ELEMENT marksheet (marksheet1*)>
+    <!ELEMENT marksheet1 (studentName,subject*,grade,per)>
+    <!ELEMENT studentName (#PCDATA)>
+    <!ELEMENT subject (#PCDATA)>
+    <!ELEMENT grade (#PCDATA)>
+    <!ELEMENT per (#PCDATA)>
+    <!ATTLIST marksheet1 id CDATA #REQUIRED>
+]>
+<marksheet>
+<marksheet1 id='123'>
+<studentName>adnan</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>A</grade>
+<per>90</per>
+</marksheet1>
+
+<marksheet1 id="123">
+<studentName>ali</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>B</grade>
+<per>80</per>
+</marksheet1>
+
+<marksheet1 id="123">
+<studentName>uzair</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>C</grade>
+<per>70</per>
+</marksheet1>
+
+<marksheet1 id="123">
+<studentName>hamza</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>D</grade>
+<per>60</per>
+</marksheet1>
+
+<marksheet1 id="123">
+<studentName>amna</studentName>
+<subject>english</subject>
+<subject>math</subject>
+<subject>urdu</subject>
+<subject>physics</subject>
+<subject>computer</subject>
+<grade>A+</grade>
+<per>95</per>
+</marksheet1>
+</marksheet>
